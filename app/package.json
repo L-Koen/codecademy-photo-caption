@@ -1,0 +1,24 @@
+{
+  "name": "photo-caption-contest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.9.1",
+    "path": "^0.12.7",
+    "pg": "^8.11.3",
+    "sequelize": "^6.37.0",
+    "sequelize-cli": "^6.6.2"
+  }
+}

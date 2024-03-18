@@ -1,0 +1,5 @@
+# Environement variables should be private
+.env
+
+# Node Modules
+app/node_modules
